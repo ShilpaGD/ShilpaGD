@@ -2,6 +2,7 @@
 - 👀I am new to GIT
 
 - use the file to learn 
+git clone https://github.com/ShilpaGD/ShilpaGD.git is sucessfull
 
 <!---
 ShilpaGD/ShilpaGD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
