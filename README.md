@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShilpaGD
 - 👀I am new to GIT
 
-- USe this file
+- use the file to learn 
 
 <!---
 ShilpaGD/ShilpaGD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
